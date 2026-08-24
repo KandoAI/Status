@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-24T03:13:33.618Z",
-  "runId": "32685692604",
+  "generatedAt": "2026-08-24T04:06:37.225Z",
+  "runId": "32688763730",
   "overall": "operational",
   "monitors": [
     {
@@ -9,9 +9,9 @@
       "name": "对话 API",
       "group": "对外入口",
       "status": "operational",
-      "ms": 1048,
+      "ms": 793,
       "reason": null,
-      "lastCheckedAt": "2026-08-24T03:13:33.618Z",
+      "lastCheckedAt": "2026-08-24T04:06:37.225Z",
       "since": "2026-08-11T04:14:06.344Z",
       "openIncident": null
     },
@@ -20,9 +20,9 @@
       "name": "账号服务",
       "group": "对外入口",
       "status": "operational",
-      "ms": 1014,
+      "ms": 733,
       "reason": null,
-      "lastCheckedAt": "2026-08-24T03:13:33.618Z",
+      "lastCheckedAt": "2026-08-24T04:06:37.225Z",
       "since": "2026-08-21T15:00:03.506Z",
       "openIncident": null
     },
@@ -31,9 +31,9 @@
       "name": "管理后台",
       "group": "对外入口",
       "status": "operational",
-      "ms": 1024,
+      "ms": 979,
       "reason": null,
-      "lastCheckedAt": "2026-08-24T03:13:33.618Z",
+      "lastCheckedAt": "2026-08-24T04:06:37.225Z",
       "since": "2026-08-18T10:36:11.709Z",
       "openIncident": null
     },
@@ -42,9 +42,9 @@
       "name": "内容服务（经对话 API 探测）",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 1051,
+      "ms": 780,
       "reason": null,
-      "lastCheckedAt": "2026-08-24T03:13:33.618Z",
+      "lastCheckedAt": "2026-08-24T04:06:37.225Z",
       "since": "2026-08-18T17:37:07.772Z",
       "openIncident": null
     },
@@ -53,9 +53,9 @@
       "name": "主数据库（经账号服务探测）",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 964,
+      "ms": 733,
       "reason": null,
-      "lastCheckedAt": "2026-08-24T03:13:33.618Z",
+      "lastCheckedAt": "2026-08-24T04:06:37.225Z",
       "since": "2026-08-17T18:41:15.147Z",
       "openIncident": null
     },
@@ -66,7 +66,7 @@
       "status": "operational",
       "ms": 972,
       "reason": null,
-      "lastCheckedAt": "2026-08-24T03:13:33.618Z",
+      "lastCheckedAt": "2026-08-24T04:06:37.225Z",
       "since": "2026-08-11T04:14:06.344Z",
       "openIncident": null
     }
