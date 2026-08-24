@@ -134,12 +134,12 @@
     },
     {
       "date": "2026-08-24",
-      "total": 25,
-      "up": 24,
+      "total": 26,
+      "up": 25,
       "degraded": 1,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 1190,
+      "avg_ms": 1181,
       "max_ms": 6111
     }
   ]
