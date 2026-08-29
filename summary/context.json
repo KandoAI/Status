@@ -184,12 +184,12 @@
     },
     {
       "date": "2026-08-29",
-      "total": 4,
-      "up": 4,
+      "total": 5,
+      "up": 5,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 708,
+      "avg_ms": 695,
       "max_ms": 771
     }
   ]
