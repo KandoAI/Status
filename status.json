@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-03T17:57:30.982Z",
-  "runId": "33787582136",
+  "generatedAt": "2026-09-03T20:32:17.929Z",
+  "runId": "33802800673",
   "overall": "operational",
   "monitors": [
     {
@@ -9,9 +9,9 @@
       "name": "对话 API",
       "group": "对外入口",
       "status": "operational",
-      "ms": 965,
+      "ms": 777,
       "reason": null,
-      "lastCheckedAt": "2026-09-03T17:57:30.982Z",
+      "lastCheckedAt": "2026-09-03T20:32:17.929Z",
       "since": "2026-08-11T04:14:06.344Z",
       "openIncident": null
     },
@@ -20,9 +20,9 @@
       "name": "账号服务",
       "group": "对外入口",
       "status": "operational",
-      "ms": 940,
+      "ms": 834,
       "reason": null,
-      "lastCheckedAt": "2026-09-03T17:57:30.982Z",
+      "lastCheckedAt": "2026-09-03T20:32:17.929Z",
       "since": "2026-08-21T15:00:03.506Z",
       "openIncident": null
     },
@@ -31,9 +31,9 @@
       "name": "管理后台",
       "group": "对外入口",
       "status": "operational",
-      "ms": 1703,
+      "ms": 1025,
       "reason": null,
-      "lastCheckedAt": "2026-09-03T17:57:30.982Z",
+      "lastCheckedAt": "2026-09-03T20:32:17.929Z",
       "since": "2026-08-24T11:38:12.523Z",
       "openIncident": null
     },
@@ -42,9 +42,9 @@
       "name": "内容服务（经对话 API 探测）",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 1151,
+      "ms": 859,
       "reason": null,
-      "lastCheckedAt": "2026-09-03T17:57:30.982Z",
+      "lastCheckedAt": "2026-09-03T20:32:17.929Z",
       "since": "2026-08-18T17:37:07.772Z",
       "openIncident": null
     },
@@ -53,9 +53,9 @@
       "name": "主数据库（经账号服务探测）",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 1163,
+      "ms": 834,
       "reason": null,
-      "lastCheckedAt": "2026-09-03T17:57:30.982Z",
+      "lastCheckedAt": "2026-09-03T20:32:17.929Z",
       "since": "2026-08-17T18:41:15.147Z",
       "openIncident": null
     },
@@ -64,9 +64,9 @@
       "name": "MCP 接入",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 1265,
+      "ms": 1043,
       "reason": null,
-      "lastCheckedAt": "2026-09-03T17:57:30.982Z",
+      "lastCheckedAt": "2026-09-03T20:32:17.929Z",
       "since": "2026-08-24T11:38:12.523Z",
       "openIncident": null
     }
