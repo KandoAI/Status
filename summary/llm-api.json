@@ -244,13 +244,13 @@
     },
     {
       "date": "2026-09-04",
-      "total": 7,
-      "up": 7,
+      "total": 8,
+      "up": 8,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 747,
-      "max_ms": 885
+      "avg_ms": 781,
+      "max_ms": 1016
     }
   ]
 }
