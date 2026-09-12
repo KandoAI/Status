@@ -324,13 +324,13 @@
     },
     {
       "date": "2026-09-12",
-      "total": 2,
-      "up": 2,
+      "total": 3,
+      "up": 3,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 688,
-      "max_ms": 690
+      "avg_ms": 707,
+      "max_ms": 747
     }
   ]
 }
