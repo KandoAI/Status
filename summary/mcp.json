@@ -374,13 +374,13 @@
     },
     {
       "date": "2026-09-17",
-      "total": 5,
-      "up": 5,
+      "total": 6,
+      "up": 6,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 940,
-      "max_ms": 1028
+      "avg_ms": 965,
+      "max_ms": 1090
     }
   ]
 }
