@@ -604,13 +604,13 @@
     },
     {
       "date": "2026-10-10",
-      "total": 1,
-      "up": 1,
+      "total": 2,
+      "up": 2,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 670,
-      "max_ms": 670
+      "avg_ms": 688,
+      "max_ms": 706
     }
   ]
 }
