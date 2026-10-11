@@ -614,13 +614,13 @@
     },
     {
       "date": "2026-10-11",
-      "total": 1,
-      "up": 1,
+      "total": 2,
+      "up": 2,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 594,
-      "max_ms": 594
+      "avg_ms": 800,
+      "max_ms": 1006
     }
   ]
 }
