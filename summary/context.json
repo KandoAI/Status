@@ -644,13 +644,13 @@
     },
     {
       "date": "2026-10-14",
-      "total": 5,
-      "up": 5,
+      "total": 6,
+      "up": 6,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 853,
-      "max_ms": 997
+      "avg_ms": 877,
+      "max_ms": 1001
     }
   ]
 }
