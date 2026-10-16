@@ -664,13 +664,13 @@
     },
     {
       "date": "2026-10-16",
-      "total": 5,
-      "up": 4,
+      "total": 6,
+      "up": 5,
       "degraded": 0,
       "down_count": 1,
       "down_minutes": 5,
-      "avg_ms": 960,
-      "max_ms": 1181
+      "avg_ms": 1012,
+      "max_ms": 1219
     }
   ]
 }
