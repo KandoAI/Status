@@ -674,13 +674,13 @@
     },
     {
       "date": "2026-10-17",
-      "total": 4,
-      "up": 4,
+      "total": 5,
+      "up": 5,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 1119,
-      "max_ms": 1187
+      "avg_ms": 1142,
+      "max_ms": 1237
     }
   ]
 }
