@@ -1,74 +1,74 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T06:07:59.133Z",
-  "runId": "39378617021",
-  "overall": "operational",
+  "generatedAt": "2026-10-20T11:28:46.813Z",
+  "runId": "39415181580",
+  "overall": "down",
   "monitors": [
     {
       "id": "llm-api",
       "name": "对话 API",
       "group": "对外入口",
-      "status": "operational",
-      "ms": 1085,
-      "reason": null,
-      "lastCheckedAt": "2026-10-20T06:07:59.133Z",
-      "since": "2026-10-16T19:48:14.762Z",
-      "openIncident": null
+      "status": "down",
+      "ms": 40,
+      "reason": "dns_error",
+      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "since": "2026-10-20T11:28:46.813Z",
+      "openIncident": 7
     },
     {
       "id": "account",
       "name": "账号服务",
       "group": "对外入口",
-      "status": "operational",
-      "ms": 946,
-      "reason": null,
-      "lastCheckedAt": "2026-10-20T06:07:59.133Z",
-      "since": "2026-10-16T19:48:14.762Z",
-      "openIncident": null
+      "status": "down",
+      "ms": 213,
+      "reason": "dns_error",
+      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "since": "2026-10-20T11:28:46.813Z",
+      "openIncident": 8
     },
     {
       "id": "admin",
       "name": "管理后台",
       "group": "对外入口",
-      "status": "operational",
-      "ms": 1288,
-      "reason": null,
-      "lastCheckedAt": "2026-10-20T06:07:59.133Z",
-      "since": "2026-10-16T19:48:14.762Z",
-      "openIncident": null
+      "status": "down",
+      "ms": 201,
+      "reason": "dns_error",
+      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "since": "2026-10-20T11:28:46.813Z",
+      "openIncident": 9
     },
     {
       "id": "context",
       "name": "内容服务（经对话 API 探测）",
       "group": "内部依赖",
-      "status": "operational",
-      "ms": 1288,
-      "reason": null,
-      "lastCheckedAt": "2026-10-20T06:07:59.133Z",
-      "since": "2026-10-16T19:48:14.762Z",
-      "openIncident": null
+      "status": "down",
+      "ms": 57,
+      "reason": "dns_error",
+      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "since": "2026-10-20T11:28:46.813Z",
+      "openIncident": 10
     },
     {
       "id": "postgres",
       "name": "主数据库（经账号服务探测）",
       "group": "内部依赖",
-      "status": "operational",
-      "ms": 1291,
-      "reason": null,
-      "lastCheckedAt": "2026-10-20T06:07:59.133Z",
-      "since": "2026-10-16T19:48:14.762Z",
-      "openIncident": null
+      "status": "down",
+      "ms": 10,
+      "reason": "dns_error",
+      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "since": "2026-10-20T11:28:46.813Z",
+      "openIncident": 11
     },
     {
       "id": "mcp",
       "name": "MCP 接入",
       "group": "内部依赖",
-      "status": "operational",
-      "ms": 1280,
-      "reason": null,
-      "lastCheckedAt": "2026-10-20T06:07:59.133Z",
-      "since": "2026-10-16T19:48:14.762Z",
-      "openIncident": null
+      "status": "down",
+      "ms": 17,
+      "reason": "dns_error",
+      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "since": "2026-10-20T11:28:46.813Z",
+      "openIncident": 12
     }
   ],
   "activeMaintenances": []
