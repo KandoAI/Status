@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T11:28:46.813Z",
-  "runId": "39415181580",
+  "generatedAt": "2026-10-20T15:46:16.545Z",
+  "runId": "39451421340",
   "overall": "down",
   "monitors": [
     {
@@ -9,9 +9,9 @@
       "name": "对话 API",
       "group": "对外入口",
       "status": "down",
-      "ms": 40,
+      "ms": 8,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "lastCheckedAt": "2026-10-20T15:46:16.545Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 7
     },
@@ -20,9 +20,9 @@
       "name": "账号服务",
       "group": "对外入口",
       "status": "down",
-      "ms": 213,
+      "ms": 251,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "lastCheckedAt": "2026-10-20T15:46:16.545Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 8
     },
@@ -31,9 +31,9 @@
       "name": "管理后台",
       "group": "对外入口",
       "status": "down",
-      "ms": 201,
+      "ms": 253,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "lastCheckedAt": "2026-10-20T15:46:16.545Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 9
     },
@@ -42,9 +42,9 @@
       "name": "内容服务（经对话 API 探测）",
       "group": "内部依赖",
       "status": "down",
-      "ms": 57,
+      "ms": 21,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "lastCheckedAt": "2026-10-20T15:46:16.545Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 10
     },
@@ -53,9 +53,9 @@
       "name": "主数据库（经账号服务探测）",
       "group": "内部依赖",
       "status": "down",
-      "ms": 10,
+      "ms": 28,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "lastCheckedAt": "2026-10-20T15:46:16.545Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 11
     },
@@ -66,7 +66,7 @@
       "status": "down",
       "ms": 17,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T11:28:46.813Z",
+      "lastCheckedAt": "2026-10-20T15:46:16.545Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 12
     }
