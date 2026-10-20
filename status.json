@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T19:38:22.122Z",
-  "runId": "39485118317",
+  "generatedAt": "2026-10-20T22:38:29.694Z",
+  "runId": "39509543019",
   "overall": "down",
   "monitors": [
     {
@@ -9,9 +9,9 @@
       "name": "对话 API",
       "group": "对外入口",
       "status": "down",
-      "ms": 25,
+      "ms": 277,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T19:38:22.122Z",
+      "lastCheckedAt": "2026-10-20T22:38:29.694Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 7
     },
@@ -20,9 +20,9 @@
       "name": "账号服务",
       "group": "对外入口",
       "status": "down",
-      "ms": 8,
+      "ms": 42,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T19:38:22.122Z",
+      "lastCheckedAt": "2026-10-20T22:38:29.694Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 8
     },
@@ -31,9 +31,9 @@
       "name": "管理后台",
       "group": "对外入口",
       "status": "down",
-      "ms": 278,
+      "ms": 265,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T19:38:22.122Z",
+      "lastCheckedAt": "2026-10-20T22:38:29.694Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 9
     },
@@ -42,9 +42,9 @@
       "name": "内容服务（经对话 API 探测）",
       "group": "内部依赖",
       "status": "down",
-      "ms": 285,
+      "ms": 18,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T19:38:22.122Z",
+      "lastCheckedAt": "2026-10-20T22:38:29.694Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 10
     },
@@ -53,9 +53,9 @@
       "name": "主数据库（经账号服务探测）",
       "group": "内部依赖",
       "status": "down",
-      "ms": 248,
+      "ms": 37,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T19:38:22.122Z",
+      "lastCheckedAt": "2026-10-20T22:38:29.694Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 11
     },
@@ -64,9 +64,9 @@
       "name": "MCP 接入",
       "group": "内部依赖",
       "status": "down",
-      "ms": 37,
+      "ms": 21,
       "reason": "dns_error",
-      "lastCheckedAt": "2026-10-20T19:38:22.122Z",
+      "lastCheckedAt": "2026-10-20T22:38:29.694Z",
       "since": "2026-10-20T11:28:46.813Z",
       "openIncident": 12
     }
