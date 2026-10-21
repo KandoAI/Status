@@ -714,11 +714,11 @@
     },
     {
       "date": "2026-10-21",
-      "total": 5,
+      "total": 6,
       "up": 0,
       "degraded": 0,
-      "down_count": 5,
-      "down_minutes": 25,
+      "down_count": 6,
+      "down_minutes": 30,
       "avg_ms": null,
       "max_ms": null
     }
