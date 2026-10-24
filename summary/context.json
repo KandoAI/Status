@@ -744,11 +744,11 @@
     },
     {
       "date": "2026-10-24",
-      "total": 7,
+      "total": 8,
       "up": 0,
       "degraded": 0,
-      "down_count": 7,
-      "down_minutes": 35,
+      "down_count": 8,
+      "down_minutes": 40,
       "avg_ms": null,
       "max_ms": null
     }
