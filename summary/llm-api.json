@@ -764,11 +764,11 @@
     },
     {
       "date": "2026-10-26",
-      "total": 3,
+      "total": 4,
       "up": 0,
       "degraded": 0,
-      "down_count": 3,
-      "down_minutes": 15,
+      "down_count": 4,
+      "down_minutes": 20,
       "avg_ms": null,
       "max_ms": null
     }
