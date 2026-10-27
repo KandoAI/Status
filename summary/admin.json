@@ -774,11 +774,11 @@
     },
     {
       "date": "2026-10-27",
-      "total": 4,
+      "total": 5,
       "up": 0,
       "degraded": 0,
-      "down_count": 4,
-      "down_minutes": 20,
+      "down_count": 5,
+      "down_minutes": 25,
       "avg_ms": null,
       "max_ms": null
     }
