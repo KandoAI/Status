@@ -1,5 +1,3 @@
-{"t":"2026-10-21T15:32:04.394Z","o":"down","ms":266,"reason":"dns_error"}
-{"t":"2026-10-21T19:31:47.884Z","o":"down","ms":18,"reason":"dns_error"}
 {"t":"2026-10-21T22:39:00.091Z","o":"down","ms":37,"reason":"dns_error"}
 {"t":"2026-10-22T00:53:19.581Z","o":"down","ms":232,"reason":"dns_error"}
 {"t":"2026-10-22T05:33:14.019Z","o":"down","ms":45,"reason":"dns_error"}
@@ -41,3 +39,4 @@
 {"t":"2026-10-28T01:49:51.819Z","o":"down","ms":264,"reason":"dns_error"}
 {"t":"2026-10-28T07:33:04.655Z","o":"down","ms":15,"reason":"dns_error"}
 {"t":"2026-10-28T14:25:08.142Z","o":"down","ms":252,"reason":"dns_error"}
+{"t":"2026-10-28T19:42:20.710Z","o":"down","ms":19,"reason":"dns_error"}
