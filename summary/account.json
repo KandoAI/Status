@@ -794,12 +794,12 @@
     },
     {
       "date": "2026-10-29",
-      "total": 3,
-      "up": 1,
+      "total": 4,
+      "up": 2,
       "degraded": 0,
       "down_count": 2,
       "down_minutes": 10,
-      "avg_ms": 2116,
+      "avg_ms": 1509,
       "max_ms": 2116
     }
   ]
