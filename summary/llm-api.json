@@ -794,11 +794,11 @@
     },
     {
       "date": "2026-10-29",
-      "total": 1,
+      "total": 2,
       "up": 0,
       "degraded": 0,
-      "down_count": 1,
-      "down_minutes": 5,
+      "down_count": 2,
+      "down_minutes": 10,
       "avg_ms": null,
       "max_ms": null
     }
