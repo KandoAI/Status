@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T12:44:02.524Z",
-  "runId": "41057515731",
+  "generatedAt": "2026-10-30T18:14:30.074Z",
+  "runId": "41105145332",
   "overall": "operational",
   "monitors": [
     {
@@ -9,9 +9,9 @@
       "name": "对话 API",
       "group": "对外入口",
       "status": "operational",
-      "ms": 1970,
+      "ms": 872,
       "reason": null,
-      "lastCheckedAt": "2026-10-30T12:44:02.524Z",
+      "lastCheckedAt": "2026-10-30T18:14:30.074Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     },
@@ -20,9 +20,9 @@
       "name": "账号服务",
       "group": "对外入口",
       "status": "operational",
-      "ms": 828,
+      "ms": 1105,
       "reason": null,
-      "lastCheckedAt": "2026-10-30T12:44:02.524Z",
+      "lastCheckedAt": "2026-10-30T18:14:30.074Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     },
@@ -31,9 +31,9 @@
       "name": "管理后台",
       "group": "对外入口",
       "status": "operational",
-      "ms": 2091,
+      "ms": 1332,
       "reason": null,
-      "lastCheckedAt": "2026-10-30T12:44:02.524Z",
+      "lastCheckedAt": "2026-10-30T18:14:30.074Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     },
@@ -42,9 +42,9 @@
       "name": "内容服务（经对话 API 探测）",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 1284,
+      "ms": 1140,
       "reason": null,
-      "lastCheckedAt": "2026-10-30T12:44:02.524Z",
+      "lastCheckedAt": "2026-10-30T18:14:30.074Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     },
@@ -53,9 +53,9 @@
       "name": "主数据库（经账号服务探测）",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 1265,
+      "ms": 1111,
       "reason": null,
-      "lastCheckedAt": "2026-10-30T12:44:02.524Z",
+      "lastCheckedAt": "2026-10-30T18:14:30.074Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     },
@@ -64,9 +64,9 @@
       "name": "MCP 接入",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 1138,
+      "ms": 1288,
       "reason": null,
-      "lastCheckedAt": "2026-10-30T12:44:02.524Z",
+      "lastCheckedAt": "2026-10-30T18:14:30.074Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     }
