@@ -814,12 +814,12 @@
     },
     {
       "date": "2026-10-31",
-      "total": 2,
-      "up": 1,
+      "total": 3,
+      "up": 2,
       "degraded": 1,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 3166,
+      "avg_ms": 2601,
       "max_ms": 5242
     }
   ]
