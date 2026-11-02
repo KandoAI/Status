@@ -834,13 +834,13 @@
     },
     {
       "date": "2026-11-02",
-      "total": 2,
-      "up": 2,
+      "total": 3,
+      "up": 3,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 1578,
-      "max_ms": 1997
+      "avg_ms": 2147,
+      "max_ms": 3285
     }
   ]
 }
