@@ -861,6 +861,16 @@
       "down_minutes": 0,
       "avg_ms": 2055,
       "max_ms": 2952
+    },
+    {
+      "date": "2026-11-05",
+      "total": 1,
+      "up": 1,
+      "degraded": 0,
+      "down_count": 0,
+      "down_minutes": 0,
+      "avg_ms": 996,
+      "max_ms": 996
     }
   ]
 }
