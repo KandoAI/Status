@@ -874,13 +874,13 @@
     },
     {
       "date": "2026-11-06",
-      "total": 2,
-      "up": 2,
+      "total": 3,
+      "up": 3,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 1583,
-      "max_ms": 2110
+      "avg_ms": 2175,
+      "max_ms": 3360
     }
   ]
 }
