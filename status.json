@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T07:51:49.543Z",
-  "runId": "42460480484",
-  "overall": "degraded",
+  "generatedAt": "2026-11-08T14:34:47.456Z",
+  "runId": "42490480214",
+  "overall": "operational",
   "monitors": [
     {
       "id": "llm-api",
       "name": "对话 API",
       "group": "对外入口",
       "status": "operational",
-      "ms": 2314,
+      "ms": 1053,
       "reason": null,
-      "lastCheckedAt": "2026-11-08T07:51:49.543Z",
+      "lastCheckedAt": "2026-11-08T14:34:47.456Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     },
@@ -20,9 +20,9 @@
       "name": "账号服务",
       "group": "对外入口",
       "status": "operational",
-      "ms": 923,
+      "ms": 1946,
       "reason": null,
-      "lastCheckedAt": "2026-11-08T07:51:49.543Z",
+      "lastCheckedAt": "2026-11-08T14:34:47.456Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     },
@@ -31,9 +31,9 @@
       "name": "管理后台",
       "group": "对外入口",
       "status": "operational",
-      "ms": 1253,
+      "ms": 1223,
       "reason": null,
-      "lastCheckedAt": "2026-11-08T07:51:49.543Z",
+      "lastCheckedAt": "2026-11-08T14:34:47.456Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     },
@@ -42,9 +42,9 @@
       "name": "内容服务（经对话 API 探测）",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 2642,
+      "ms": 2440,
       "reason": null,
-      "lastCheckedAt": "2026-11-08T07:51:49.543Z",
+      "lastCheckedAt": "2026-11-08T14:34:47.456Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     },
@@ -52,11 +52,11 @@
       "id": "postgres",
       "name": "主数据库（经账号服务探测）",
       "group": "内部依赖",
-      "status": "degraded",
-      "ms": 7906,
+      "status": "operational",
+      "ms": 2523,
       "reason": null,
-      "lastCheckedAt": "2026-11-08T07:51:49.543Z",
-      "since": "2026-11-08T07:51:49.543Z",
+      "lastCheckedAt": "2026-11-08T14:34:47.456Z",
+      "since": "2026-11-08T14:34:47.456Z",
       "openIncident": null
     },
     {
@@ -64,9 +64,9 @@
       "name": "MCP 接入",
       "group": "内部依赖",
       "status": "operational",
-      "ms": 1924,
+      "ms": 1216,
       "reason": null,
-      "lastCheckedAt": "2026-11-08T07:51:49.543Z",
+      "lastCheckedAt": "2026-11-08T14:34:47.456Z",
       "since": "2026-10-29T15:52:40.702Z",
       "openIncident": null
     }
