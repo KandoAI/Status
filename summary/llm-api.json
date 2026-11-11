@@ -924,13 +924,13 @@
     },
     {
       "date": "2026-11-11",
-      "total": 1,
-      "up": 1,
+      "total": 2,
+      "up": 2,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 1221,
-      "max_ms": 1221
+      "avg_ms": 1500,
+      "max_ms": 1778
     }
   ]
 }
