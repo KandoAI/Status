@@ -984,12 +984,12 @@
     },
     {
       "date": "2026-11-17",
-      "total": 2,
-      "up": 2,
+      "total": 3,
+      "up": 3,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 1577,
+      "avg_ms": 1427,
       "max_ms": 2452
     }
   ]
