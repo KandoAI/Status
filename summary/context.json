@@ -1034,12 +1034,12 @@
     },
     {
       "date": "2026-11-22",
-      "total": 3,
-      "up": 3,
+      "total": 4,
+      "up": 4,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 1882,
+      "avg_ms": 1650,
       "max_ms": 2430
     }
   ]
