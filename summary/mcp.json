@@ -1084,12 +1084,12 @@
     },
     {
       "date": "2026-11-27",
-      "total": 1,
-      "up": 1,
+      "total": 2,
+      "up": 2,
       "degraded": 0,
       "down_count": 0,
       "down_minutes": 0,
-      "avg_ms": 1243,
+      "avg_ms": 1217,
       "max_ms": 1243
     }
   ]
